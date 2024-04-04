@@ -1,2 +1,3 @@
 # proxmox
-proxmox scripts
+
+proxmox-vgpu-installer
